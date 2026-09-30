@@ -1,0 +1,7 @@
+Image,Version,Brightness,Contrast,Entropy,UCIQE,UIQM
+img1.jpg,Original,58.9954,58.919,7.2448,0.4544,2.2595
+img1.jpg,Enhanced,101.9014,62.5938,7.8005,0.4019,2.7272
+img2.jpg,Original,40.198,51.5863,6.0092,0.4969,1.1627
+img2.jpg,Enhanced,80.5566,59.3358,7.3381,0.4639,1.958
+underwater1.jpg,Original,87.738,53.8149,7.5432,0.4605,3.3789
+underwater1.jpg,Enhanced,103.5291,63.6544,7.7491,0.4679,2.9317

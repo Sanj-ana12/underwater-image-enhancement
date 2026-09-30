@@ -1,0 +1,5 @@
+Stage,Brightness,Contrast,Entropy,UCIQE,UIQM
+Original,87.738,53.8149,7.5432,0.4605,3.3789
+Color Corrected,85.0388,52.5432,7.5095,0.4615,3.3636
+Contrast Enhanced,103.9922,57.1075,7.6719,0.4359,3.3507
+Final,103.5291,63.6544,7.7491,0.4679,2.9317

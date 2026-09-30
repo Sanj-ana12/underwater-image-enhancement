@@ -1,0 +1,5 @@
+Method,Brightness,Contrast,Entropy,UCIQE,UIQM
+Original,87.74,53.81,7.543,0.4605,3.379
+Method A,93.62,58.2,7.657,0.4552,3.351
+Method B,103.99,57.11,7.672,0.4359,3.351
+Method C,103.53,63.65,7.749,0.4679,2.932
